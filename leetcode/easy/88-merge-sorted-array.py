@@ -3,7 +3,7 @@
 
 """
 Approach: Merge Sorted Array using optimal reverse two-pointer approach
-Time Complexity: O(m +1 n)
+Time Complexity: O(m+n)
 Space Complexity: O(1)
 """
 from typing import List
